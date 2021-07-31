@@ -1,5 +1,5 @@
 # PortfolioR
-This project served as a base to learn different User Interactions using code. 
+This project served as a base to learn different User Interactions using code. This was so that I can communicate better with the developers in the future.
 It is a beginner's project which contains a Loading Screen, Header, Landing section, Home, About, Skills, 
 Services, Portfolio, Recommended By, Contact and Footer.
 
